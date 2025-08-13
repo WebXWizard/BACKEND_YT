@@ -8,10 +8,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./server.js",
-    "chalk": "echo \"\u001b[36mRunning tests...\u001b[39m\" && node server.js"
-  },
-  "dependencies": {
-    "chalk": "^5.5.0"
+    "start": "node ./server.js"
+  
   }
 }
