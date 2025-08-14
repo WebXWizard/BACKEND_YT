@@ -8,7 +8,7 @@
    npm uninstall package_name - Uninstall
    npm i package_name@version - Install particular version of Package
 
-3. Understanding node_modules - dependencies related to packages,         dependencies related to dependencies
+3. Understanding node_modules - dependencies related to packages, dependencies related to dependencies
 
 4. dependencies - packages and dependencies of packages
 
